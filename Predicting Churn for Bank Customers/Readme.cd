@@ -1,1 +1,5 @@
+  Predicting Churn for Bank Customers – Personal Project
+●	Conducted EDA to understand data and identify patterns and Deploy models like Logistic Regression, Random Forest, XGBoost got the accuracy score.
+●	Optimized performance with RandomizedSearchCV.
+●	By hyperparameter tuning achieved 86.37 percent improvement in predictive accuracy.
 
